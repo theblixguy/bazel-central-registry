@@ -1,0 +1,17 @@
+{
+    "mediaType": "application/vnd.build.bazel.registry.attestation+json;version=1.0.0",
+    "attestations": {
+        "source.json": {
+            "url": "https://github.com/theblixguy/swift-bylaws/releases/download/v0.7.0/source.json.intoto.jsonl",
+            "integrity": "sha256-KnhhXR5LqGW0r974vCpYpNxHxtKqOmh7WnxgyI4pPlw="
+        },
+        "MODULE.bazel": {
+            "url": "https://github.com/theblixguy/swift-bylaws/releases/download/v0.7.0/MODULE.bazel.intoto.jsonl",
+            "integrity": "sha256-6Fq4AKLUIA24DaOfa3V3lYowCx3rzrVxhRkSdQPiVTw="
+        },
+        "bylaws-bazel-module.tar.gz": {
+            "url": "https://github.com/theblixguy/swift-bylaws/releases/download/v0.7.0/bylaws-bazel-module.tar.gz.intoto.jsonl",
+            "integrity": "sha256-pTM2GraItr9pSTz2S/l8bvHDTvbBwIxYiAIys1YC4Kc="
+        }
+    }
+}
